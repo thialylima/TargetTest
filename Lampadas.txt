@@ -1,0 +1,10 @@
+Resolução do problema:
+
+Ligar o interruptor A e aguardar alguns minutos. Isso fará com que a lâmpada controlada por A aqueça
+
+Desligue o interruptor A e ligue o interruptor B imediatamente antes de ir para a sala das lâmpadas
+
+Chegando na sala das lâmpadas pela primeira vez: (3 possibilidades)
+A lâmpada acesa é controlada pelo interruptor B (pois está ligada agora).
+A lâmpada apagada, porém quente, é controlada pelo interruptor A (pois foi ligada por um tempo e depois desligada).
+A lâmpada apagada e fria é controlada pelo interruptor C (pois nunca foi ligada).
